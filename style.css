@@ -47,4 +47,37 @@ body {
     transition: 0.3s;
 }
 
+.cardzin h2{
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin: 0;
+    transition: 0.3s;
+
+}
+.cardzin p{
+    font-size: 0px;
+    visibility: hidden;
+    opacity: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: 0.3s;
+
+}
+.card:hover{
+    filter: unset;
+}
+.card:hover > .cardzin::before{
+    height: 300px;
+    width: 400px;
+    opacity: 1;
+    /* efeitozinho aparecendo */
+}.card:hover > .cardzin p{
+    opacity: 1;
+    visibility: visible;
+    font-size: 14px;
+    /* cardzinho aparecendo com o p que coloquei no inicio */
+}
+
+
 
