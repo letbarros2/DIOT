@@ -65,3 +65,24 @@
    transform: rotate(-45deg);
    top: 48px;
 }
+.rede_social {
+    margin-top: 1rem;
+    display: flex;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    padding: 1rem 4rem;
+    border: 1px solid white;
+    min-width: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: .5s cubic-bezier(0.55, 0.025, 0.675, 0.97);
+}
+
+a:hover {
+    color: #085078;
+    background-color: white;
+}
