@@ -266,3 +266,11 @@ transition: 0.5s ease-in-out;
     visibility: visible;
     font-size: 14px;
 }
+.footer{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2E1C2B;
+}
