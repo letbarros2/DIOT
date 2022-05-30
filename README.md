@@ -3,11 +3,11 @@
 <h1> TELA PRINCIPAL </h1>
 <ul>
     <li>
-       <a href=""><img src="../1.png"/></a>
-      <a href=""><img src="2.png"/></a>
-      <a href=""><img src="3.png"/></a>
-      <a href=""><img src="4.png"/></a>
-      <a href=""><img src="5.png"/></a>
+       <a href=""><img src="PORTIFOLIO/1.png"/></a>
+      <a href=""><img src="PORTIFOLIO/2.png"/></a>
+      <a href=""><img src="PORTIFOLIO/3.png"/></a>
+      <a href=""><img src="PORTIFOLIO/4.png"/></a>
+      <a href=""><img src="PORTIFOLIO/5.png"/></a>
     </li>
 </ul>
         
