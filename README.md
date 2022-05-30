@@ -3,7 +3,7 @@
 <h1> TELA PRINCIPAL </h1>
 <ul>
     <li>
-       <a href=""><img src="1.png"/></a>
+       <a href=""><img src="../1.png"/></a>
       <a href=""><img src="2.png"/></a>
       <a href=""><img src="3.png"/></a>
       <a href=""><img src="4.png"/></a>
